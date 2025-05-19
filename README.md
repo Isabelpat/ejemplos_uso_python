@@ -1,38 +1,37 @@
-# 📘 Portafolio de Ejercicios en Python
+# 📚 Portafolio de Ejercicios en Python
 
-Este repositorio contiene una colección de ejercicios resueltos en Python, diseñados para reforzar conceptos clave como estructuras de control, ciclos, manejo de datos y funciones. Está dividido en dos secciones principales: **Estructuras Básicas** y **Estructuras de Datos y Funciones**.
-
-## 📂 Estructura del Proyecto
-
+Este repositorio contiene una colección de ejercicios básicos en Python, organizados por temas fundamentales: estructuras secuenciales, condicionales, ciclos, estructuras de datos y funciones. Ideal para practicar fundamentos de programación.
 
 ---
 
 ## 🧮 Estructuras Básicas (Secuenciales, Condicionales, Ciclos)
 
-| # | Ejercicio | Descripción |
-|---|-----------|-------------|
-| 1 | [Área de un triángulo](basicos/01_area_triangulo.py) | Calcula el área a partir de base y altura ingresadas por el usuario. |
-| 2 | [Ecuación cuadrática](basicos/02_ecuacion_cuadratica.py) | Resuelve una ecuación de segundo grado. |
-| 3 | [Salario obrero](basicos/03_salario_obrero.py) | Calcula el salario considerando horas extra. |
-| 4 | [Tipo de triángulo](basicos/04_tipo_triangulo.py) | Clasifica el triángulo según sus lados. |
-| 5 | [Índice de Masa Corporal](basicos/05_imc.py) | Calcula el IMC y da un diagnóstico. |
-| 6 | [Números pares](basicos/06_pares_menores.py) | Muestra pares menores a un número dado. |
-| 7 | [Tabla del 5](basicos/07_tabla_5.py) | Imprime la tabla del número 5. |
-| 8 | [Serie armónica](basicos/08_serie_fracciones.py) | Imprime la serie `1/1 + 1/2 + ... + 1/n`. |
-| 9 | [Sumatoria armónica](basicos/09_sumatoria_fracciones.py) | Imprime y calcula la suma de la serie armónica. |
-|10 | [Sumatoria de cuadrados](basicos/10_sumatoria_cuadrados.py) | Muestra la serie y suma `1² + 2² + ... + n²`. |
+| #  | Ejercicio                      | Descripción                                                  |
+|----|-------------------------------|--------------------------------------------------------------|
+| 1  | [Área de un triángulo](1.area%20de%20un%20triangulo/)             | Calcula el área con base y altura ingresadas por el usuario. |
+| 2  | [Fórmula general](2.formula%20general/)                           | Resuelve una ecuación cuadrática con coeficientes dados.     |
+| 3  | [Salarios](3.salarios/)                                           | Calcula el salario semanal con pago por horas extra.         |
+| 4  | [Clasificación de triángulos](4.clasificación%20de%20triangulos/) | Clasifica el triángulo según sus lados.                      |
+| 5  | [Índice de masa corporal](5.indice%20de%20masa%20corporal/)       | Calcula el IMC y da diagnóstico según el valor.              |
+| 6  | [Números pares](6.num%20pares/)                                   | Muestra pares menores a un número ingresado.                 |
+| 7  | [Tabla del 5](7.productos%20de%201%20a%2010%20tabla%20multiplicar%205/) | Imprime la tabla de multiplicar del 5.                      |
+| 8  | [Serie de sumatoria](8.sumatoria/)                                | Muestra la serie 1/1, 1/2, ..., 1/n.                          |
+| 9  | [Sumatoria armónica](9.serie%20de%20sumatoria/)                   | Imprime el valor de la sumatoria 1/1 + 1/2 + ... + 1/n.       |
+| 10 | [Sumatoria n²](10.sumatoria%20n2/)                                | Imprime la serie y suma de cuadrados hasta n (n ≤ 5).        |
 
 ---
 
 ## 🧩 Estructuras de Datos y Funciones
 
-| # | Ejercicio | Descripción |
-|---|-----------|-------------|
-|11 | [Calificaciones de estudiantes](estructuras_datos/11_calificaciones_estudiantes.py) | Registro y promedio de calificaciones. |
-|12 | [Catálogo de productos](estructuras_datos/12_catalogo_productos.py) | Gestión de inventario con tuplas. |
-|13 | [Contador de palabras](estructuras_datos/13_contador_palabras.py) | Cuenta palabras en una frase. |
-|14 | [Agenda de contactos](estructuras_datos/14_agenda_contactos.py) | Guarda y actualiza contactos. |
-|15 | [Análisis de lista](estructuras_datos/15_analisis_lista.py) | Devuelve mayor, menor, promedio y cantidad de pares/impares. |
+| #  | Ejercicio                        | Descripción                                                             |
+|----|----------------------------------|-------------------------------------------------------------------------|
+| 11 | [Registro de estudiantes](11.registro%20de%20estudiantes/)       | Registra calificaciones, calcula promedios por estudiante.              |
+| 12 | [Catálogo](12.catalogo/)                                         | Administra productos con código, nombre, precio y cantidad.             |
+| 13 | [Diccionario de palabras](13.diccionario/)                      | Devuelve un diccionario con la frecuencia de palabras en una frase.     |
+| 14 | [Gestión de agenda](14.gestion%20agenda/)                        | Agenda con funciones para agregar, buscar y actualizar contactos.       |
+| 15 | [Tupla con análisis](15.tupla%20con%20los%20datos/)             | Devuelve tupla con mayor, menor, promedio, pares e impares.             |
+
+---
 
 
 ---
